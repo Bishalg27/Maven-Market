@@ -91,7 +91,7 @@ Effective visualization,showing the important and in depth visualization accordi
 
 ```Relationship``` contains the screenshot of the relationship needed to build.
 
-```Raw Data``` contains the files needed to create this project.
+```Maven Project``` contains the Raw files needed to create this project.
 
 
 
