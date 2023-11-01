@@ -87,6 +87,8 @@ Effective visualization,showing the important and in depth visualization accordi
 
 ```Measure Dax:``` contains all the measure that required to build this project.
 
+```Performance Note```It shows all the important key findings.
+
 ```Relationship``` contains the screenshot of the relationship needed to build.
 
 ```Raw Data``` contains the files needed to create this project.
